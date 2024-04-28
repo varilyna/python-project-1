@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Text, WORD, BOTH, LEFT, Y, Scrollbar
 
 class TextEditor:
     def __init__(self, root):

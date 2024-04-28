@@ -1,7 +1,4 @@
-from tkinter import END
-from tkinter import filedialog
-from tkinter import messagebox
-from tkinter import simpledialog
+from tkinter import END, filedialog, messagebox, simpledialog
 
 class Menu1:
     def __init__(self, root, text_field):

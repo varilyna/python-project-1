@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Tk, Menu
 from src import View, Menu1, TextEditor
 
 root = Tk()
